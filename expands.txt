@@ -1,0 +1,19 @@
+" ppp "," public-private-partnership "
+" ppps "," public-private-partnership "
+" ngo "," non-governmental-organization "
+" ngos "," non-governmental-organization "
+" non governmental organization ",non-governmental-organization
+" usa "," united-states "
+" US "," united-states "
+" united states "," united-states "
+" united kingdom "," united-kingdom "
+" uk "," united kingdom "
+#r&d,research-and-development
+#research and development," research-and-development "
+#research & development," research-and-development "
+" csr "," corporate-social-responsibility "
+vw," volkswagen "
+" epa "," Environmental-Protection-Agency "
+Martin Winterkorn ," Martin-Winterkorn "
+jorge r ruiz, Jorge-R-Ruiz
+" volkswa ",  volkswagen 
